@@ -7,6 +7,7 @@
     --spotify: #1DB954;
     --youtube: #FF0000;
     --sources: #64748b;
+    --quiz: #c9a961;
     --shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.4);
 }
 
@@ -86,6 +87,7 @@ h1 {
 .spotify { background-color: var(--spotify); }
 .youtube { background-color: var(--youtube); }
 .sources { background-color: var(--primary-color); color: #0f172a; }
+.quiz { background-color: var(--quiz); color: #0f172a; }
 
 .divider {
     text-align: center;
